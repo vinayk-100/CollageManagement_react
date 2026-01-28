@@ -1,0 +1,14 @@
+# 05 - 01 - 2025 (morning)
+* set and add student_count, staff_count, placement_office_count, company count using websocket
+
+===========================
+# 04 - 01 - 2026
+
+* add and error and sucussfull message on add user
+* websocket update on add teacher count in dashboard
+
+=======================================
+# 02 - 01 - 2026 
+* add web socket communication
+* get and display total users using web socket
+* Get and display live active user using websocket (only avalable for dashbaord now)
